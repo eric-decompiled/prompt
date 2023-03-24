@@ -20,7 +20,11 @@ AI has a wide range of applications, including:
 
 4. **Robotics**: Robotics involves the design, construction, and operation of robots. AI-powered robots can be used for tasks like manufacturing, exploration, and healthcare.
 
+```ts
+const abc = "abc"
+const add = () => 1 + 1
+```
+
 ## Future of AI
 
 AI is a rapidly evolving field with the potential to bring significant advancements in technology and society. By exploring its capabilities and limitations, we can harness its power to create a better future for everyone.
-

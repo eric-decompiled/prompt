@@ -1,4 +1,4 @@
-import { extendTheme } from "@chakra-ui/react";
+import { extendTheme } from "@chakra-ui/react"
 
 const theme = extendTheme({
   config: {
@@ -6,7 +6,7 @@ const theme = extendTheme({
     useSystemColorMode: true,
   },
   styles: {
-    global: (props) => ({
+    global: props => ({
       body: {
         fontFamily: "system-ui, sans-serif",
         lineHeight: "1.5",
@@ -40,8 +40,24 @@ const theme = extendTheme({
         fontWeight: "bold",
       },
     },
+    CopyToClipboardButton: {
+      baseStyle: {
+        position: "absolute",
+        top: 0,
+        right: 0,
+        padding: "4px 8px",
+        backgroundColor: "rgba(0, 0, 0, 0.2)",
+        color: "white",
+        fontSize: "0.8em",
+        cursor: "pointer",
+        border: "none",
+        zIndex: 1,
+        _hover: {
+          backgroundColor: "rgba(0, 0, 0, 0.4)",
+        },
+      },
+    },
   },
-});
+})
 
-export default theme;
-
+export default theme
