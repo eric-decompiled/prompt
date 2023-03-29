@@ -1,18 +1,17 @@
-import * as React from "react";
-import { Box } from "@chakra-ui/react";
-import Layout from "../components/layout";
-import BlogList from "../components/bloglist";
+import * as React from "react"
+import { Box, Heading } from "@chakra-ui/react"
+import Layout from "../components/layout"
+import BlogList from "../components/bloglist"
 
 const IndexPage = () => {
   return (
     <Layout>
       <Box>
-        <h1>Welcome to My AI Experiments Blog</h1>
+        <Heading size="xl">Notes about AI tools</Heading>
         <BlogList />
       </Box>
     </Layout>
-  );
-};
+  )
+}
 
-export default IndexPage;
-
+export default IndexPage

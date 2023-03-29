@@ -1,4 +1,3 @@
-import * as React from "react";
 import {
   Box,
   Heading,
@@ -6,15 +5,21 @@ import {
   Flex,
   IconButton,
   useColorMode,
-} from "@chakra-ui/react";
-import { Link as GatsbyLink } from "gatsby";
-import { FaMoon, FaSun } from "react-icons/fa";
+} from "@chakra-ui/react"
+import * as React from "react"
+import { Link as GatsbyLink } from "gatsby"
+import { FaMoon, FaSun } from "react-icons/fa"
 
-const Header = () => {
-  const { colorMode, toggleColorMode } = useColorMode();
+const Header = props => {
+  const { colorMode, toggleColorMode } = useColorMode()
 
   return (
-    <Box as="header" bg={colorMode === "dark" ? "blue.800" : "blue.600"} py={4} px={6}>
+    <Box
+      as="header"
+      bg={colorMode === "dark" ? "blue.800" : "blue.600"}
+      py={4}
+      px={6}
+    >
       <Flex
         as="nav"
         maxW="container.xl"
@@ -26,11 +31,11 @@ const Header = () => {
           <Link
             as={GatsbyLink}
             to="/"
-            textDecoration="none"
-            color="white"
+            textDecoration="none !important"
+            color="white !important"
             _hover={{ textDecoration: "underline", color: "blue.300" }}
           >
-            Prompt
+            {props.siteTitle}
           </Link>
         </Heading>
         <IconButton
@@ -42,8 +47,7 @@ const Header = () => {
         />
       </Flex>
     </Box>
-  );
-};
+  )
+}
 
-export default Header;
-
+export default Header

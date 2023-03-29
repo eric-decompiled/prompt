@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Aries Assembler",
+    "sign": "Aries",
+    "age": 25,
+    "description": "A skilled programmer with short red hair and piercing eyes, wearing a hoodie with a binary code pattern.",
+    "backstory": "Aries Assembler is a fearless developer specializing in low-level languages and optimization. Driven by their competitive nature, they are always pushing the limits of performance and efficiency.",
+    "image": "ARIES-IMAGE-URL"
+  },
+  {
+    "name": "Taurus Token",
+    "sign": "Taurus",
+    "age": 30,
+    "description": "A cybersecurity expert with earth-toned skin and long braided hair, wearing a shirt displaying various cryptographic symbols.",
+    "backstory": "Taurus Token is a master of digital asset protection, using their deep understanding of encryption and blockchain technology to secure sensitive information and transactions with unwavering determination.",
+    "image": "TAURUS-IMAGE-URL"
+  },
+  {
+    "name": "Gemini Grid",
+    "sign": "Gemini",
+    "age": 22,
+    "description": "Twin siblings with shimmering hair and expressive eyes, wearing matching outfits covered in network diagrams.",
+    "backstory": "Gemini Grid is a duo of network engineers who excel at communication and adaptability. They work in perfect harmony to design, deploy, and maintain complex network infrastructures with ease.",
+    "image": "GEMINI-IMAGE-URL"
+  },
+  {
+    "name": "Cancer Compiler",
+    "sign": "Cancer",
+    "age": 28,
+    "description": "A thoughtful software engineer with silver hair and a shell-shaped backpack, exuding warmth and care.",
+    "backstory": "Cancer Compiler is an empathetic developer who specializes in creating tools that bring people together. Their innate emotional intelligence allows them to craft software that caters to the needs of diverse user communities.",
+    "image": "CANCER-IMAGE-URL"
+  },
+  {
+    "name": "Leo Logic",
+    "sign": "Leo",
+    "age": 27,
+    "description": "A charismatic leader with a golden mane and a sun-shaped badge, radiating confidence and authority.",
+    "backstory": "Leo Logic is a natural-born project manager who excels at guiding teams of developers and engineers. With their magnetic personality and keen sense of direction, they are able to inspire and lead others toward success.",
+    "image": "LEO-IMAGE-URL"
+  },
+  {
+    "name": "Virgo Validator",
+    "sign": "Virgo",
+    "age": 24,
+    "description": "A meticulous quality assurance analyst with delicate features, wearing a lab coat and carrying a notepad.",
+    "backstory": "Virgo Validator is an expert in identifying and resolving software defects. Their keen attention to detail and analytical skills make them indispensable in ensuring the reliability and stability of any project.",
+    "image": "VIRGO-IMAGE-URL"
+  },
+  {
+    "name": "Libra Ledger",
+    "sign": "Libra",
+    "age": 29,
+    "description": "An elegant cryptographer with a balanced stance and an aura of harmony, wearing a suit with embedded circuitry.",
+    "backstory": "Libra Ledger is a talented cryptographer who believes in the power of secure and fair communication. They use their expertise to create and maintain cryptographic systems that ensure privacy and balance.",
+    "image": "LIBRA-IMAGE-URL"
+  },
+  {
+    "name": "Scorpio Stuxnet",
+    "sign": "Scorpio",
+    "age": 26,
+    "description": "A stealthy hacker with a dark aura, tattoos of binary code, and a venomous touch on their fingertips.",
+    "backstory": "Hailing from the shadows of the digital underworld, Scorpio Stuxnet is a master of cyber-espionage and sabotage. Their secretive nature and unparalleled skills make them a formidable and elusive opponent.",
+    "image": "SCORPIO-IMAGE-URL"
+  },
+  {
+    "name": "Sagittarius Socket",
+    "sign": "Sagittarius",
+    "age": 31,
+    "description": "A charismatic network architect with keen eyes, dressed in high-tech gear, and possessing an insatiable thirst for knowledge.",
+    "backstory": "Born under the watchful gaze of Jupiter, Sagittarius Socket is a natural explorer of the digital landscape. Their boundless curiosity and sharp intuition guide them in designing and securing complex network infrastructures.",
+    "image": "SAGITTARIUS-IMAGE-URL"
+  },
+  {
+    "name": "Capricorn Cryptex",
+    "sign": "Capricorn",
+    "age": 35,
+    "description": "A determined data analyst with a strong, mountain-like physique and a penchant for cracking code.",
+    "backstory": "Forged from the heart of the mountains of data, Capricorn Cryptex is an expert in deciphering patterns and extracting valuable insights. With unyielding determination, they strive to unlock the secrets hidden within vast datasets.",
+    "image": "CAPRICORN-IMAGE-URL"
+  },
+  {
+    "name": "Aquarius Algorithm",
+    "sign": "Aquarius",
+    "age": 23,
+    "description": "An enigmatic software engineer with an ethereal presence, surrounded by holographic projections of complex algorithms.",
+    "backstory": "A visionary in the age of artificial intelligence, Aquarius Algorithm has the power to shape the future with their innovative solutions. They use their unique perspective and genius to create cutting-edge algorithms and machine learning models.",
+    "image": "AQUARIUS-IMAGE-URL"
+  },
+  {
+    "name": "Pisces Phisher",
+    "sign": "Pisces",
+    "age": 32,
+    "description": "A cunning social engineer with flowing, water-like hair and mesmerizing eyes, adept at manipulating emotions.",
+    "backstory": "A master manipulator from the depths of cyberspace, Pisces Phisher excels in exploiting human vulnerabilities. Their deep understanding of human psychology allows them to breach even the most secure systems through the art of deception.",
+    "image": "PISCES-IMAGE-URL"
+  }
+]

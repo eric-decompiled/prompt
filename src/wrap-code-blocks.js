@@ -26,18 +26,17 @@ const CopyToClipboardButton = ({ code }) => {
 }
 
 const wrapCodeBlocks = () => {
-  const codeBlocks = document.querySelectorAll("pre[class*=language-] > code")
+  const codeBlocks = document.querySelectorAll("pre > code")
 
   codeBlocks.forEach(codeBlock => {
     const preElement = codeBlock.parentElement
 
     // Apply positioning styles to the pre element
     preElement.style.position = "relative"
-    preElement.style.overflow = "hidden"
 
     const code = codeBlock.textContent
     const buttonContainer = document.createElement("div")
-    buttonContainer.style.position = "absolute"
+    buttonContainer.style.position = "relative"
     buttonContainer.style.top = "0"
     buttonContainer.style.right = "0"
     preElement.appendChild(buttonContainer)

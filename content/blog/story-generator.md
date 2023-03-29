@@ -1,6 +1,6 @@
 ---
-title: "Simple Story generator"
-date: "2023-03-25"
+title: "Simple Story Generator - Combining narratives "
+date: "2023-03-24"
 description: "Building a two part model"
 ---
 

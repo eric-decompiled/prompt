@@ -2,7 +2,7 @@ import { extendTheme } from "@chakra-ui/react"
 
 const theme = extendTheme({
   config: {
-    initialColorMode: "light",
+    initialColorMode: "dark",
     useSystemColorMode: true,
   },
   styles: {
@@ -14,12 +14,33 @@ const theme = extendTheme({
         bg: props.colorMode === "dark" ? "brand.900" : "brand.100",
       },
       a: {
-        color: props.colorMode === "dark" ? "blue.300" : "blue.600",
+        color:
+          props.colorMode === "dark"
+            ? "blue.300 !important"
+            : "blue.700 !important",
+        textDecoration: "underline !important",
+        cursor: "auto",
         fontWeight: "medium",
         _hover: {
           textDecoration: "underline",
-          color: props.colorMode === "dark" ? "blue.100" : "blue.900",
+          cursor: "pointer",
+          color:
+            props.colorMode === "dark"
+              ? "blue.100 !important"
+              : "blue.900 !important",
         },
+      },
+      h1: {
+        fontSize: "3xl",
+      },
+      h2: {
+        fontSize: "2xl",
+      },
+      h3: {
+        fontSize: "xl",
+      },
+      h4: {
+        fontSize: "lg",
       },
     }),
   },
@@ -31,11 +52,6 @@ const theme = extendTheme({
   },
   components: {
     Button: {
-      baseStyle: {
-        fontWeight: "bold",
-      },
-    },
-    Heading: {
       baseStyle: {
         fontWeight: "bold",
       },
