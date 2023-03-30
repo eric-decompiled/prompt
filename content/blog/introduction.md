@@ -1,5 +1,6 @@
 ---
 title: "Introduction"
+tagline: "About and contact"
 date: "2023-03-23"
 description: "About the blog and author"
 ---

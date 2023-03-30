@@ -1,5 +1,6 @@
 ---
-title: "Zodiac Character - Generating mock JSON data"
+title: "Zodiac Characters"
+tagline: "Generating mock JSON data"
 date: "2023-03-25"
 description: "Generating themed test data in JSON format"
 ---

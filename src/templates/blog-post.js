@@ -14,8 +14,9 @@ export default function BlogPost({ data }) {
         description={post.frontmatter.description}
       />
       <Box>
-        <Heading as="h1">{post.frontmatter.title}</Heading>
         <strong>{post.frontmatter.date}</strong>
+        <Heading as="h1">{post.frontmatter.title}</Heading>
+        <hr />
         <div dangerouslySetInnerHTML={{ __html: post.html }} />
       </Box>
     </Layout>

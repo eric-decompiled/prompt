@@ -1,5 +1,6 @@
 ---
-title: "Midjourney - Image generation"
+title: "Midjourney"
+tagline: "Realistic image generating chat bot"
 date: "2023-03-28"
 description: "Generating Images in Discord chat"
 ---

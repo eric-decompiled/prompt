@@ -1,5 +1,5 @@
 ---
-title: "Text Adventure Game"
+title: "Text Adventure"
 date: "2023-03-26"
 description: "Testing GPT 4 ability to build worlds and ascribe emotions"
 ---

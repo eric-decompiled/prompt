@@ -1,5 +1,6 @@
 ---
-title: "Simple Story Generator - Combining narratives "
+title: "Simple Story Generator"
+tagline: "Combining prompts"
 date: "2023-03-24"
 description: "Building a two part model"
 ---

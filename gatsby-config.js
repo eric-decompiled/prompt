@@ -9,8 +9,8 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Prompt`,
-    description: `Notes on machine intelligence`,
+    title: `Decompiled`,
+    description: `Exploring machine intelligence`,
     author: `Decompiled`,
     siteUrl: `https://gatsbystarterdefaultsource.gatsbyjs.io/`,
   },

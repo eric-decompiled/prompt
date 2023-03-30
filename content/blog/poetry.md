@@ -1,10 +1,13 @@
 ---
-title: "Poetry - an introduction by Chat GPT"
+title: "Poetry"
+tagline: "GPT's introduction"
 date: "2023-03-29"
 description: "GPT introduces itself with a poem"
 ---
 
-Since chat GPT 4 is helping with this blog, below is a poem it wrote. I nudged the style a bit with song lyrics, which GPT refernces in the second last verse. The lyrics I used are from a song that opens with a riff that sounds like "sweet home alabama".
+Here I ask GPT to write a poem introducing itself. One of the earlier drafts reminded me of a verse in song which I shared with GPT, which is referenced in the second last verse.
+
+**Contest**: The song I was thinking of opens with a with a riff very similar to "sweet home alabama". If you can figure it out [email me](eric@decompiled.dev) with the name of the song and something nice that you want, I'll try my best to get it to you, within reason.
 
 ```
 In realms unseen, where whispers soft entwine,

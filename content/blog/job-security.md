@@ -1,5 +1,6 @@
 ---
-title: "Job Security - Early Musings"
+title: "Job Security"
+tagline: "Early musings on economic impacts of AI"
 date: "2023-03-27"
 description: "Musings about impacts of AI and demand for software"
 ---
