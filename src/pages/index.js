@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
     <Layout>
       <Box>
-        <Heading size="xl">Notes about AI tools</Heading>
+        <Heading size="xl">Notes on Machine Intelligence</Heading>
         <br />
         <BlogList />
       </Box>
