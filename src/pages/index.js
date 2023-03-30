@@ -8,6 +8,7 @@ const IndexPage = () => {
     <Layout>
       <Box>
         <Heading size="xl">Notes about AI tools</Heading>
+        <br />
         <BlogList />
       </Box>
     </Layout>
