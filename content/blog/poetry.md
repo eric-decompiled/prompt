@@ -7,7 +7,7 @@ description: "GPT introduces itself with a poem"
 
 Here I ask GPT to write a poem introducing itself. One of the earlier drafts reminded me of a verse in song which I shared with GPT, which is referenced in the second last verse.
 
-**Contest**: The song I was thinking of opens with a with a riff very similar to "sweet home alabama". If you can figure it out [email me](eric@decompiled.dev) with the name of the song and something nice that you want, I'll try my best to get it to you, within reason.
+**Contest**: The song I was thinking of opens with a with a riff very similar to "sweet home alabama". If you can figure it out [email me](mailto:eric@decompiled.dev) with the name of the song and something nice that you want, I'll try my best to get it to you, within reason.
 
 ```
 In realms unseen, where whispers soft entwine,
