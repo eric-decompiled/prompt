@@ -25,7 +25,8 @@ const BlogList = () => {
       <ul>
         {data.allMarkdownRemark.edges.map(({ node }) => (
           <li key={node.fields.slug}>
-            <Link to={node.fields.slug}>{node.frontmatter.title}</Link>
+            <Link to={node.fields.slug}>{node.frontmatter.title}</Link> —{" "}
+            {node.frontmatter.date}
           </li>
         ))}
       </ul>

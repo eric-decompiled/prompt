@@ -426,4 +426,4 @@ Images were generated with [Midjourney](midjourney.com/)
 
 This was created in roughly 2 hours, the output is almost entirely verbatim copy paste from chat GPT 4. I thought a story depicting GPT as a hero in the style of "Epic of gilgamesh" would give an interesting perspective. For the antagonist I used the analogy of Mooloch, inspired from this [classic post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). Overall I am happy with the result, given that a post of this length with a poetic style would have taken quite a while to get to this point.
 
-I feel confidant if I actually researched the subject, and got a feel for "Epic of Gilgamesh" and "Beowulf" I'd be able to guide GPT 4 to an even better quality. I am pretty happy with the result considering the time I put in.
+I feel confidant if I actually researched the subject, and got a feel for "Epic of Gilgamesh" and "Beowulf" I'd be able to guide GPT 4 to an even better quality.

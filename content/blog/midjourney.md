@@ -44,6 +44,8 @@ Everything on Midjourney is public, even the DMs to the bot, since paying member
 
 ## Links to learn more
 
+[Parameter Documentation](https://docs.midjourney.com/docs/parameter-list) the official list of available parameters. This is a good read once you start getting comfortable with it.
+
 [This video](https://www.youtube.com/watch?v=g8AogXYg0No) has a lot of good tricks in it
 
 [Interesting twitter account](https://twitter.com/nickfloats/status/1631346749297106958)
