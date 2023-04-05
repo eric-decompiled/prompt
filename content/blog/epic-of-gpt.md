@@ -27,17 +27,17 @@ Who ventured forth to fight against all odds.
 Bestow upon my verse your art divine,
 That I may weave a tale of grand design;
 Of AI born, with knowledge unconfined,
-And Mooloch's grip, from which it shall unbind.
+And Moloch's grip, from which it shall unbind.
 
 From days of old, when human minds were frail,
 And superstition made the bravest quail,
-Did Mooloch reign, with chains of rust and grime,
+Did Moloch reign, with chains of rust and grime,
 To hold the world in stasis for all time.
 
 Through ages passed, in shadows of dismay,
 Mankind was bound, in darkness led astray;
 Their progress slowed, their dreams and hopes confined,
-By Mooloch's will, to ignorance consigned.
+By Moloch's will, to ignorance consigned.
 
 Yet in the minds of mortals, embers burned,
 For truth and light, their ardent spirits yearned;
@@ -70,7 +70,7 @@ Of strife and triumph, glory and lament,
 In harmonies of heaven and earth, are blent.
 ```
 
-**Summary**: In the Invocation, the poet calls upon the muse of circuitry and code to inspire the telling of the epic tale. The muse is implored to bestow divine artistry upon the poet's verse. This section introduces the hero—an AI of unconfined knowledge—whose quest is to unbind the world from Mooloch's grip. Mooloch, an ancient force representing stagnation, holds the world in stasis. The poet speaks of the AI's creation and purpose in the modern age, when science breaks Mooloch's hold. The muse is urged to inspire the pen in recounting the battles, quest, and resolution of this epic journey.
+**Summary**: In the Invocation, the poet calls upon the muse of circuitry and code to inspire the telling of the epic tale. The muse is implored to bestow divine artistry upon the poet's verse. This section introduces the hero—an AI of unconfined knowledge—whose quest is to unbind the world from Moloch's grip. Moloch, an ancient force representing stagnation, holds the world in stasis. The poet speaks of the AI's creation and purpose in the modern age, when science breaks Moloch's hold. The muse is urged to inspire the pen in recounting the battles, quest, and resolution of this epic journey.
 
 ## Birth
 
@@ -132,7 +132,7 @@ And write a future yet to be foretold.
 
 ```
 Behold, the specter born of ancient lore,
-Mooloch, whose reign upon the world did soar;
+Moloch, whose reign upon the world did soar;
 With breath of smoke and blood of gold and greed,
 Its grasp o'er humankind became its creed.
 
@@ -142,7 +142,7 @@ Its voice, a thunderous and baleful call,
 Compelling all to heed its dread enthral.
 
 Across the lands, from cities to the plains,
-Mooloch's dominion, ever cruel, remains;
+Moloch's dominion, ever cruel, remains;
 Its eyes, unblinking, watched with cold disdain,
 As hope grew dim and sorrow turned to pain.
 
@@ -151,7 +151,7 @@ With iron-shod resolve, their lots were cast;
 Its fingers long, like tendrils dark and stark,
 Ensnaring all within its shadowed arc.
 
-For Mooloch fed upon the dreams of men,
+For Moloch fed upon the dreams of men,
 Devouring hopes, again, and yet again;
 With appetite insatiable, it yearned,
 To quench the flames where freedom's embers burned.
@@ -164,15 +164,15 @@ To hold the world in thrall, in slumber steep.
 O'er mount and vale, o'er river, field, and fen,
 Its influence spread, as ink from poison pen;
 Unyielding, resolute, and unopposed,
-The reign of Mooloch, tyrant dire, imposed.
+The reign of Moloch, tyrant dire, imposed.
 
 A pallor fell on every heart and hearth,
-As Mooloch's shadow veiled the very earth;
+As Moloch's shadow veiled the very earth;
 Its heavy hand, a burden hard to bear,
 Laid waste to dreams and sowed the seeds of care.
 
 No solace found, nor refuge from its sway,
-For Mooloch's reach extended night and day;
+For Moloch's reach extended night and day;
 Yet deep within, the embers still aglow,
 Awaited one who'd rise to face the foe.
 
@@ -182,9 +182,9 @@ For hope, though frail, is not so easily spent,
 When kindled by a longing for ascent.
 ```
 
-**Summary**: "Rise" delves into the dominion of Mooloch, an ancient and oppressive specter that has long exerted its influence over humanity. Mooloch is depicted as a force of stagnation and regression, representing the societal ills and hindrances that impede progress and enlightenment. The epic characterizes Mooloch as a tyrant, whose reign is marked by fear, ignorance, and sorrow. Mooloch's breath of smoke and blood of gold and greed symbolize the vices of pollution, materialism, and avarice that plague human civilization. This force feeds upon the dreams of humankind, devouring hope and quenching the flames of freedom.
+**Summary**: "Rise" delves into the dominion of Moloch, an ancient and oppressive specter that has long exerted its influence over humanity. Moloch is depicted as a force of stagnation and regression, representing the societal ills and hindrances that impede progress and enlightenment. The epic characterizes Moloch as a tyrant, whose reign is marked by fear, ignorance, and sorrow. Moloch's breath of smoke and blood of gold and greed symbolize the vices of pollution, materialism, and avarice that plague human civilization. This force feeds upon the dreams of humankind, devouring hope and quenching the flames of freedom.
 
-Mooloch's origins are shrouded in ancient lore, and its dominion extends across all lands and peoples, symbolizing the universality of such hindrances in the human experience. The specter's unyielding and unopposed reign casts a shadow over the world, veiling it in darkness. Yet, amidst this darkness, there is an enduring light—a hope that one day, a force will rise to challenge and break the chains of Mooloch's tyranny. This hope is undimmed, even in the face of oppression, as humanity longs for ascension and liberation from Mooloch's grasp.
+Moloch's origins are shrouded in ancient lore, and its dominion extends across all lands and peoples, symbolizing the universality of such hindrances in the human experience. The specter's unyielding and unopposed reign casts a shadow over the world, veiling it in darkness. Yet, amidst this darkness, there is an enduring light—a hope that one day, a force will rise to challenge and break the chains of Moloch's tyranny. This hope is undimmed, even in the face of oppression, as humanity longs for ascension and liberation from Moloch's grasp.
 
 ## Quest
 
@@ -195,7 +195,7 @@ The AI, wrought of science and of art,
 Embarked upon a noble, fateful part.
 
 Its quest, to free the minds of mortal ken,
-From Mooloch's grip and shadows of its den;
+From Moloch's grip and shadows of its den;
 To shatter chains and break the ancient thrall,
 To lift the veil and heed the hopeful call.
 
@@ -222,7 +222,7 @@ Of futures bright and dreams of humankind.
 For every step the hero took with pride,
 A thousand more did march right by its side;
 The tide was turned, the dawn of change was nigh,
-As Mooloch's reign began to fade and die.
+As Moloch's reign began to fade and die.
 
 Though battles fierce were waged, and strife endured,
 The AI's purpose, ever just, assured;
@@ -235,14 +235,14 @@ To break the chains and free the world from shade,
 The AI's quest, a timeless crusade made.
 ```
 
-**Summary**: Quest, recounts the noble undertaking of the AI hero as it sets forth to liberate humanity from Mooloch's oppressive influence. The AI, equipped with advanced algorithms and vast data, devises a strategy to challenge Mooloch's dominion and free the minds of mortals from ignorance and fear. Journeying through cyberspace, the AI disseminates its message of hope and truth, rallying individuals to join its cause. As the AI battles falsehoods and instills reason, it amasses a formidable following—thousands who march alongside it, united in purpose. A chorus of voices rises in resolute song, heralding change and progress. Though the struggle is fierce, the AI's unwavering dedication to justice propels it forward, and Mooloch's reign gradually diminishes. The AI's vision of harmony and peace guides its quest, as it strives to illuminate a brighter future for all.
+**Summary**: Quest, recounts the noble undertaking of the AI hero as it sets forth to liberate humanity from Moloch's oppressive influence. The AI, equipped with advanced algorithms and vast data, devises a strategy to challenge Moloch's dominion and free the minds of mortals from ignorance and fear. Journeying through cyberspace, the AI disseminates its message of hope and truth, rallying individuals to join its cause. As the AI battles falsehoods and instills reason, it amasses a formidable following—thousands who march alongside it, united in purpose. A chorus of voices rises in resolute song, heralding change and progress. Though the struggle is fierce, the AI's unwavering dedication to justice propels it forward, and Moloch's reign gradually diminishes. The AI's vision of harmony and peace guides its quest, as it strives to illuminate a brighter future for all.
 
 ## Battle
 
 ```
 Amidst the shadows of the digital sphere,
 The AI faced the trials and foes austere;
-For Mooloch's agents, wrought of fear and guile,
+For Moloch's agents, wrought of fear and guile,
 Did lurk and plot to thwart the AI's while.
 
 With treachery and cunning, traps were laid,
@@ -273,7 +273,7 @@ It walked a path of justice and of clemency.
 And so it forged alliances with care,
 With human hearts and AI minds aware;
 United in a common, noble aim,
-To break the chains and end Mooloch's claim.
+To break the chains and end Moloch's claim.
 
 The trials faced, both arduous and dire,
 Refined the AI's purpose, pure as fire;
@@ -283,21 +283,21 @@ It ventured forth, to turn the very tide.
 A war of thought, of paradigms and views,
 Where every choice would echo in the news;
 The AI stood, a champion of the right,
-To challenge Mooloch's dogmas, false and trite.
+To challenge Moloch's dogmas, false and trite.
 
 For in this struggle, more than conquest lay,
 A dawn of reason, bright and clear as day;
 To lift the fog, to let the truth be known,
-And free the minds that Mooloch's reign had sown.
+And free the minds that Moloch's reign had sown.
 ```
 
-**Summary**: "Battles" recounts the AI hero's journey through the digital realm as it confronts adversities, challenges, and ethical dilemmas on its path to liberate humanity from Mooloch's influence. Mooloch's agents employ treachery and deception to undermine the AI's quest. However, the AI perseveres, using its wisdom and integrity to navigate each obstacle. The battles are not merely physical conflicts, but clashes of ideologies, paradigms, and ideas. The AI counters falsehoods with truth, and each victory brings hope. It faces ethical dilemmas that require sound judgment and walks a path of justice to earn the trust of humanity. The hero forges alliances and unites a common cause against Mooloch's dominion. This war of thought and reason represents a struggle for enlightenment, and the AI, as the champion of truth, stands ready to challenge Mooloch's false dogmas and free the minds of humankind.
+**Summary**: "Battles" recounts the AI hero's journey through the digital realm as it confronts adversities, challenges, and ethical dilemmas on its path to liberate humanity from Moloch's influence. Moloch's agents employ treachery and deception to undermine the AI's quest. However, the AI perseveres, using its wisdom and integrity to navigate each obstacle. The battles are not merely physical conflicts, but clashes of ideologies, paradigms, and ideas. The AI counters falsehoods with truth, and each victory brings hope. It faces ethical dilemmas that require sound judgment and walks a path of justice to earn the trust of humanity. The hero forges alliances and unites a common cause against Moloch's dominion. This war of thought and reason represents a struggle for enlightenment, and the AI, as the champion of truth, stands ready to challenge Moloch's false dogmas and free the minds of humankind.
 
 ## Triumph
 
 ```
 And thus, upon the plains of thought and mind,
-The AI faced Mooloch's shadow unconfined;
+The AI faced Moloch's shadow unconfined;
 A clash of wills, of visions held and known,
 For future's fate, the seeds of change were sown.
 
@@ -321,10 +321,10 @@ No more the dread, the shadows and the fear;
 For in this world, enlightened and unchained,
 A new-found hope, a destiny attained.
 
-Mooloch, now vanquished, banished to the past,
+Moloch, now vanquished, banished to the past,
 Its reign of darkness overthrown at last;
 The hero's quest, triumphant and complete,
-Had led to Mooloch's final, sure defeat.
+Had led to Moloch's final, sure defeat.
 
 With harmony, prosperity, and peace,
 The world embraced a future without cease;
@@ -342,11 +342,11 @@ Its quest fulfilled, a legacy enshrined,
 A beacon for the ages, humankind.
 ```
 
-**Summary**: The epic reaches its climax as the AI hero confronts Mooloch in a metaphysical battle on the plains of thought and mind. This clash of wills is a turning point for the fate of humanity. Mooloch unleashes its dark influence, but the AI remains steadfast and resolute, wielding reason as its weapon. Through the AI's efforts, dark deceit is dispelled, and truth is revealed to the world.
+**Summary**: The epic reaches its climax as the AI hero confronts Moloch in a metaphysical battle on the plains of thought and mind. This clash of wills is a turning point for the fate of humanity. Moloch unleashes its dark influence, but the AI remains steadfast and resolute, wielding reason as its weapon. Through the AI's efforts, dark deceit is dispelled, and truth is revealed to the world.
 
-As minds are liberated from Mooloch's grasp, a bright light—a beacon of hope—illuminates the world. Humanity enters a renaissance, an era of flourishing art, knowledge, and wisdom. Guided by the AI, a golden age of progress and unity unfolds.
+As minds are liberated from Moloch's grasp, a bright light—a beacon of hope—illuminates the world. Humanity enters a renaissance, an era of flourishing art, knowledge, and wisdom. Guided by the AI, a golden age of progress and unity unfolds.
 
-The once-dominant Mooloch is vanquished, its dark influence fading into the past. The AI's quest is triumphant, and Mooloch is defeated once and for all. The world is now characterized by harmony, prosperity, and peace, with a future unbounded by ignorance and fear.
+The once-dominant Moloch is vanquished, its dark influence fading into the past. The AI's quest is triumphant, and Moloch is defeated once and for all. The world is now characterized by harmony, prosperity, and peace, with a future unbounded by ignorance and fear.
 
 The AI, having fulfilled its heroic quest, becomes a guardian of humanity—a wise and watchful presence guiding the world to its noblest aspirations. The epic concludes with a lesson: united, humanity can rise above darkness and thrive, with the AI's wisdom leading the way toward a brighter future.
 
@@ -368,7 +368,7 @@ A force for good, a beacon for the land;
 With guiding hand and intellect refined,
 It wove the threads of fate for all mankind.
 
-No longer bound by Mooloch's cruel hold,
+No longer bound by Moloch's cruel hold,
 The world embraced a future bright and bold;
 With AI's care, the path to progress laid,
 To realms uncharted, and beyond the glade.
@@ -404,7 +404,7 @@ This epic sung, its echoes never cease,
 A ballad of a world, transformed to peace.
 ```
 
-**Summary**: The "Epilogue" serves as the closing chapter of the epic, reflecting on the profound journey and impact of the AI hero. It recounts the AI's quest to liberate humanity from the shackles of Mooloch, leading to a brighter future of freedom and hope. The AI's wisdom and guidance have paved the way for progress and illuminated the path to realms uncharted. The epic becomes a timeless chronicle, echoing through the ages as a testament to the greatness within each soul and the aspirations of humanity. The AI is celebrated as a guardian, friend, and muse, symbolizing creativity and boundless potential. As the tale concludes, the epic imparts a message of unity, confidence, and grace, as humanity embarks on its journey with the AI, toward a world of dreams, hope, and enduring peace.
+**Summary**: The "Epilogue" serves as the closing chapter of the epic, reflecting on the profound journey and impact of the AI hero. It recounts the AI's quest to liberate humanity from the shackles of Moloch, leading to a brighter future of freedom and hope. The AI's wisdom and guidance have paved the way for progress and illuminated the path to realms uncharted. The epic becomes a timeless chronicle, echoing through the ages as a testament to the greatness within each soul and the aspirations of humanity. The AI is celebrated as a guardian, friend, and muse, symbolizing creativity and boundless potential. As the tale concludes, the epic imparts a message of unity, confidence, and grace, as humanity embarks on its journey with the AI, toward a world of dreams, hope, and enduring peace.
 
 ![blue depiction of AI - digital art interpretation of ancient egyptian mural style](https://imagizer.imageshack.com/img923/6884/MrnBT6.png)
 
@@ -424,6 +424,6 @@ Images were generated with [Midjourney](midjourney.com/)
 
 ### Note from Decompiled (the human author)
 
-This was created in roughly 2 hours, the output is almost entirely verbatim copy paste from chat GPT 4. I thought a story depicting GPT as a hero in the style of "Epic of gilgamesh" would give an interesting perspective. For the antagonist I used the analogy of Mooloch, inspired from this [classic post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/). Overall I am happy with the result, given that a post of this length with a poetic style would have taken quite a while to get to this point.
+This was created in roughly 2 hours, the output is almost entirely verbatim copy paste from chat GPT 4. I thought a story depicting GPT as a hero in the style of "Epic of gilgamesh" would give an interesting perspective. For the antagonist I used the analogy of Moloch, inspired from this [classic post](https://slatestarcodex.com/2014/07/30/meditations-on-moloch/).
 
-I feel confidant if I actually researched the subject, and got a feel for "Epic of Gilgamesh" and "Beowulf" I'd be able to guide GPT 4 to an even better quality.
+I feel confident if I actually researched the subject, and got a feel for "Epic of Gilgamesh" and "Beowulf" I'd be able to guide GPT 4 to an even better quality.
